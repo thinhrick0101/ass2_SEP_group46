@@ -22,7 +22,13 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Run test
-      run: python -m unittest test_calculator.py
-      working-directory: test
+    - name: Install builder
+      run: |
+        virtualenv venv
+        source venv/bin/activate
+        python -m pip install pybuilder
+        python -m pyb --start-project
+    - name: Run build and test
+      run: python -m pyb
+
 
