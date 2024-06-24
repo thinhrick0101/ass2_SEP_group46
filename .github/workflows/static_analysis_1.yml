@@ -27,4 +27,5 @@ jobs:
       - name: Run pylint
         run: |
           . venv/bin/activate
-          pylint ../src/calculator.py
+          pylint src
+          pylint test
