@@ -26,6 +26,14 @@ jobs:
       run: |
         python -m pip install pybuilder
         pyb --start-project
+        ass2_SEP_group46
+        src
+        docs
+        test
+        scripts
+        y
+        y
+        y
     - name: Run build and test
       run: python -m pyb
 
