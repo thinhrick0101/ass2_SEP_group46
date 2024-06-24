@@ -2,11 +2,10 @@ name: Python application
 
 on:
   push: 
-    commit: [ "Testing-branch" ]
+    commit: [ "Testing-branch", "main" ]
 
 permissions:
   contents: read
-
 jobs:
   testing_with_unittest:
 
