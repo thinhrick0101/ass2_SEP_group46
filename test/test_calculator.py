@@ -1,6 +1,7 @@
 import unittest
 from calculator import divide
-divide.path.append('../')
+import sys
+sys.path.insert(0, '../src')
 
 class TestDivision(unittest.TestCase):
 
