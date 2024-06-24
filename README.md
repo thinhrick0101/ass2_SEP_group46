@@ -1,6 +1,6 @@
 # Report for Assignment 2
 
-Programming language used: <Python or Java>
+Programming language used: <Python>
 
 ## Workflow 1: Testing (`testing.yml`)
 
