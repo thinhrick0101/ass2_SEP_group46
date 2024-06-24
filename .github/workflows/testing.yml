@@ -8,7 +8,7 @@ permissions:
   contents: read
 
 jobs:
-  Testing with unittest:
+  testing_with_unittest:
 
     runs-on: ubuntu-latest
 
