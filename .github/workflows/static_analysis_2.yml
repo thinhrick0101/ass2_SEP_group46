@@ -1,7 +1,8 @@
 name: Static Analysis
 
 on:
-  push:
+  push: 
+    branches: ["An-branch"]
 
 jobs:
   static-analysis:
@@ -18,7 +19,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Install pylint
       run: |
         pip install pylint
