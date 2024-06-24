@@ -1,4 +1,4 @@
-name: Static Analysis
+name: Static Analysis 2
 
 on:
   push: 
@@ -24,7 +24,5 @@ jobs:
       run: |
         pip install pylint
     - name: Run pylint
-      run: |
-        source venv/bin/activate
-        pylint .
+      run: pylint .
       continue-on-error: true
