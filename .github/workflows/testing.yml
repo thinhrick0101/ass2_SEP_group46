@@ -31,5 +31,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run test
       run: |
-        python -m unittest ./test/test_calculator.py
+        python -m unittest test/test_calculator.py
 
