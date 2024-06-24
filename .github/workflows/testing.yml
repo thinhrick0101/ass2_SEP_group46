@@ -1,7 +1,8 @@
 name: Python application
 
 on:
-  push: commit
+  push: 
+    commit: [ "Testing-branch" ]
 
 permissions:
   contents: read
