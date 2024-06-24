@@ -1,5 +1,6 @@
 import unittest
 from calculator import divide
+divide.path.append('../')
 
 class TestDivision(unittest.TestCase):
 
