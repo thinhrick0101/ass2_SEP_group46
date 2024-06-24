@@ -5,7 +5,7 @@ on:
     branches: [ "An-branch" ]
     
 permissions:
-  contents: read
+  contents: write
 
 jobs: 
   build: 
