@@ -31,7 +31,7 @@ The flags I added in was to make flake8 return Python syntax errors, Issues with
 
 | Member | Created workflows | Reviewed workflows | Merged pull requests' number |
 | --- | --- | --- | --- |
-| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
+| Member A | | | |
 | Member B | | | |
-| Member C | | | |
+| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
 | Member D | | | |
