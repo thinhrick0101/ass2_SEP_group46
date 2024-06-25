@@ -10,9 +10,10 @@ Programming language used: <Python>
 
 ## Workflow 2: Static analysis (`static_analysis_1.yml`)
 
-<Inform which tool is used to perform code quality check with static analysis.>
+<Inform which tool is used to perform code quality check with static analysis.> flake8 is the tool that was used. 
+The flags I added in was to make flake8 return Python syntax errors, Issues with specific Python 3.x features, Issues with specific Python features, Undefined names in __all__.
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+[<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>](https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670703056/job/26679924349)
 
 ## Workflow 3: Static analysis (`static_analysis_2.yml`)
 
