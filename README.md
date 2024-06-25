@@ -1,6 +1,6 @@
 # Report for Assignment 2
 
-Programming language used: <Python or Java>
+Programming language used: <Python>
 
 ## Workflow 1: Testing (`testing.yml`)
 
@@ -11,9 +11,9 @@ This workflow is ran on every commit on the Testing-branch and the main branch.
 
 ## Workflow 2: Static analysis (`static_analysis_1.yml`)
 
-<Inform which tool is used to perform code quality check with static analysis.>
+<Inform which tool is used to perform code quality check with static analysis.>flake8 is the tool that was used.
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+[<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>](https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670703056/job/26679924349)
 
 ## Workflow 3: Static analysis (`static_analysis_2.yml`)
 
@@ -32,6 +32,6 @@ This workflow is ran on every commit on the Testing-branch and the main branch.
 | Member | Created workflows | Reviewed workflows | Merged pull requests' number |
 | --- | --- | --- | --- |
 | Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
-| Member B | | | |
+| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
 | Member C | | | |
 | Member D | | | |
