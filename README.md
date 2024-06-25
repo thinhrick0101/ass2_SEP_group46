@@ -23,7 +23,7 @@ This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_
 
 ## Workflow 4: Release (`release.yml`)
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670585144/job/26679553754
 
 ## Statement of individual contributions
 
@@ -37,4 +37,4 @@ This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_
 | Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
 | Hieu Nguyen Viet | static_analysis_1.yml |static_analysis_2.yml | 5 |
 | Member C | | | |
-| Member D | | | |
+| Tuan An Hoang | release.yml | static_analysis_1.yml, static_analysis_2.yml, testing.yml | 6 |
