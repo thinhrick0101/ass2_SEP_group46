@@ -2,9 +2,7 @@ name: Static Analysis
 
 on:
   push:
-    branches:
-      - local-Hieu
-      - main
+    branches: ["local-Hieu", "main"]
 
 jobs:
   build:
