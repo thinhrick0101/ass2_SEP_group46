@@ -33,5 +33,5 @@ The flags I added in was to make flake8 return Python syntax errors, Issues with
 | --- | --- | --- | --- |
 | Member A | | | |
 | Member B | | | |
-| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
+| Hieu Nguyen Viet |static_analysis_1.yml, testing.yml, release.yml |static_analysis_2.yml |5 |
 | Member D | | | |
