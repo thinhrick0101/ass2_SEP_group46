@@ -18,28 +18,6 @@ Programming language used: <Python>
 
 pylint is a popular static code analysis tool for Python. It helps developers improve code quality by identifying programming errors, enforcing a coding standard, and offering simple refactoring suggestions. Here’s a detailed overview of pylint:
 
-Key Features
-Static Code Analysis:
-
-Error Detection: Identifies potential errors in the code, such as syntax errors, undefined variables, and type errors.
-Code Quality: Highlights issues related to code quality, such as code smells and complex code that may be difficult to maintain.
-Coding Standards Enforcement:
-
-Ensures that the code adheres to PEP 8 (Python Enhancement Proposal 8), which is the style guide for Python code.
-Allows customization of coding standards to fit specific project or team requirements.
-Refactoring Assistance:
-
-Provides suggestions for improving code structure and making it more maintainable.
-Helps identify redundant code and unused variables.
-Extensible and Customizable:
-
-Supports plugins and extensions, allowing developers to add custom checks or modify existing ones.
-Configuration can be adjusted via .pylintrc configuration files.
-Detailed Reports:
-
-Generates comprehensive reports that include a summary of the issues found, categorized by severity.
-Reports can be output in various formats, such as text, JSON, and HTML.
-
 This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670428376/job/26679116665
 
 ## Workflow 4: Release (`release.yml`)
