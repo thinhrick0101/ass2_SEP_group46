@@ -16,7 +16,29 @@ Programming language used: <Python>
 
 ## Workflow 3: Static analysis (`static_analysis_2.yml`)
 
-<Inform which tool is used to perform code quality check with static analysis.>
+pylint is a popular static code analysis tool for Python. It helps developers improve code quality by identifying programming errors, enforcing a coding standard, and offering simple refactoring suggestions. Here’s a detailed overview of pylint:
+
+Key Features
+Static Code Analysis:
+
+Error Detection: Identifies potential errors in the code, such as syntax errors, undefined variables, and type errors.
+Code Quality: Highlights issues related to code quality, such as code smells and complex code that may be difficult to maintain.
+Coding Standards Enforcement:
+
+Ensures that the code adheres to PEP 8 (Python Enhancement Proposal 8), which is the style guide for Python code.
+Allows customization of coding standards to fit specific project or team requirements.
+Refactoring Assistance:
+
+Provides suggestions for improving code structure and making it more maintainable.
+Helps identify redundant code and unused variables.
+Extensible and Customizable:
+
+Supports plugins and extensions, allowing developers to add custom checks or modify existing ones.
+Configuration can be adjusted via .pylintrc configuration files.
+Detailed Reports:
+
+Generates comprehensive reports that include a summary of the issues found, categorized by severity.
+Reports can be output in various formats, such as text, JSON, and HTML.
 
 <Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
 
