@@ -30,7 +30,7 @@ Programming language used: <Python>
 
 | Member | Created workflows | Reviewed workflows | Merged pull requests' number |
 | --- | --- | --- | --- |
-| Member A | | | |
+| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
 | Member B | | | |
 | Member C | | | |
 | Member D | | | |
