@@ -4,15 +4,16 @@ Programming language used: <Python>
 
 ## Workflow 1: Testing (`testing.yml`)
 
-<Inform which tool is used to compile and test.>
+The tool used to build and run the test is the Python Poetry packaging and dependency management tool. It is installed when the workflow is ran on Github.
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+[Link to one log (from the "Actions" tab on GitHub) of an execution of this workflow](https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670606918)
+This workflow is ran on every commit on the Testing-branch and the main branch.
 
 ## Workflow 2: Static analysis (`static_analysis_1.yml`)
 
-<Inform which tool is used to perform code quality check with static analysis.>
+<Inform which tool is used to perform code quality check with static analysis.>flake8 is the tool that was used.
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+[<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>](https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670703056/job/26679924349)
 
 ## Workflow 3: Static analysis (`static_analysis_2.yml`)
 
@@ -33,4 +34,7 @@ This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_
 | Member A | | | |
 | Member B | | | |
 | Nguyen Duc Thinh | Static analysis 2 | the remain | 3|
+| Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
+| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
+| Member C | | | |
 | Member D | | | |
