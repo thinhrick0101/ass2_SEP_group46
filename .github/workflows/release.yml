@@ -1,0 +1,29 @@
+name: Create Release
+
+on:
+  push:
+    branches: [ "An-branch", "main" ]
+    
+permissions:
+  contents: write
+
+jobs: 
+  build: 
+    name: Create Release
+    if: contains(github.event.head_commit.message, 'release')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+      - name: Create release
+        id: create-release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: v0.0.2
+          release_name: Release v0.0.2
+          body: |
+            This is the first release ?
+          draft: false
+          prerelease: false
