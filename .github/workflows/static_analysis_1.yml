@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - local-Hieu
+      - main
 
 jobs:
   build:
