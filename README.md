@@ -17,9 +17,9 @@ This workflow is ran on every commit on the Testing-branch and the main branch.
 
 ## Workflow 3: Static analysis (`static_analysis_2.yml`)
 
-<Inform which tool is used to perform code quality check with static analysis.>
+pylint is a popular static code analysis tool for Python. It helps developers improve code quality by identifying programming errors, enforcing a coding standard, and offering simple refactoring suggestions.
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670428376/job/26679116665
 
 ## Workflow 4: Release (`release.yml`)
 
@@ -31,6 +31,9 @@ This workflow is ran on every commit on the Testing-branch and the main branch.
 
 | Member | Created workflows | Reviewed workflows | Merged pull requests' number |
 | --- | --- | --- | --- |
+| Member A | | | |
+| Member B | | | |
+| Nguyen Duc Thinh | Static analysis 2 | the remain | 3|
 | Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
 | Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
 | Member C | | | |
