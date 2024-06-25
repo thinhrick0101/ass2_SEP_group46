@@ -33,8 +33,8 @@ This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_
 | --- | --- | --- | --- |
 | Member A | | | |
 | Member B | | | |
-| Nguyen Duc Thinh | Static analysis 2 | the remain | 3|
+| Nguyen Duc Thinh | static_analysis_2.yml | testing.yml, static_release_2.yml, release.yml | 3 |
 | Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
-| Hieu Nguyen Viet |static_analysis_1.yml |static_analysis_2.yml |5 |
+| Hieu Nguyen Viet | static_analysis_1.yml |static_analysis_2.yml | 5 |
 | Member C | | | |
 | Member D | | | |
