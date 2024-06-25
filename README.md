@@ -16,7 +16,7 @@ Programming language used: <Python>
 
 ## Workflow 3: Static analysis (`static_analysis_2.yml`)
 
-pylint is a popular static code analysis tool for Python. It helps developers improve code quality by identifying programming errors, enforcing a coding standard, and offering simple refactoring suggestions. Here’s a detailed overview of pylint:
+pylint is a popular static code analysis tool for Python. It helps developers improve code quality by identifying programming errors, enforcing a coding standard, and offering simple refactoring suggestions.
 
 This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670428376/job/26679116665
 
@@ -32,5 +32,5 @@ This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_
 | --- | --- | --- | --- |
 | Member A | | | |
 | Member B | | | |
-| Member C | | | |
+| Nguyen Duc Thinh | | | |
 | Member D | | | |
