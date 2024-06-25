@@ -33,4 +33,4 @@ https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670585144/job/26
 | Member A | | | |
 | Member B | | | |
 | Member C | | | |
-| Member D | | | |
+| Tuan An Hoang | release.yml | static_analysis_1.yml, static_analysis_2.yml, testing.yml | 6 |
