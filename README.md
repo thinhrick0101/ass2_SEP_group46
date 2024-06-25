@@ -40,7 +40,7 @@ Detailed Reports:
 Generates comprehensive reports that include a summary of the issues found, categorized by severity.
 Reports can be output in various formats, such as text, JSON, and HTML.
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670428376/job/26679116665
 
 ## Workflow 4: Release (`release.yml`)
 
