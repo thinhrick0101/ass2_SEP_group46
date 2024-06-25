@@ -22,7 +22,7 @@ Programming language used: <Python>
 
 ## Workflow 4: Release (`release.yml`)
 
-<Provide the link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>
+https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670585144/job/26679553754
 
 ## Statement of individual contributions
 
