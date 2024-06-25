@@ -6,7 +6,7 @@ Programming language used: <Python or Java>
 
 The tool used to build and run the test is the Python Poetry packaging and dependency management tool. It is installed when the workflow is ran on Github.
 
-[Link to one log (from the "Actions" tab on GitHub) of an execution of this workflow>](https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670606918)
+[Link to one log (from the "Actions" tab on GitHub) of an execution of this workflow](https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670606918)
 This workflow is ran on every commit on the Testing-branch and the main branch.
 
 ## Workflow 2: Static analysis (`static_analysis_1.yml`)
@@ -31,7 +31,7 @@ This workflow is ran on every commit on the Testing-branch and the main branch.
 
 | Member | Created workflows | Reviewed workflows | Merged pull requests' number |
 | --- | --- | --- | --- |
-| Member A | | | |
+| Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
 | Member B | | | |
 | Member C | | | |
 | Member D | | | |
