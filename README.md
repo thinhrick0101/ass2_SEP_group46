@@ -32,5 +32,5 @@ This is the link of static_ ananlysis_2 : https://github.com/thinhrick0101/ass2_
 | --- | --- | --- | --- |
 | Member A | | | |
 | Member B | | | |
-| Nguyen Duc Thinh | | | |
+| Nguyen Duc Thinh | Static analysis 2 | the remain | 3|
 | Member D | | | |
