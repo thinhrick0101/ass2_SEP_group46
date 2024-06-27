@@ -23,10 +23,8 @@ jobs:
     - name: Install pylint
       run: |
         pip install pylint
-     - name: Run pylint on src
-      run: |
-        pylint src/ > pylint-report-src.txt || true
-
-    - name: Run pylint on test
-      run: |
-        pylint test/ > pylint-report-test.txt || true
+    - name: Run pylint 
+      run : |
+         pylint src/
+         pylint test/
+         ignore error : true
