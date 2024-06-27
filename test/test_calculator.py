@@ -20,8 +20,7 @@ class TestDivision(unittest.TestCase):
         This is a comment
         """
         self.assertAlmostEqual(divide(5, 2), 2.5, places=4, msg="5 / 2 should be 2.5")
-        self.assertAlmostEqual(divide(7, 3), 2.3333, places=4, msg="7 / 3 should be 
-        approximately 2.3333")
+        self.assertAlmostEqual(divide(7, 3), 2.3333, places=4, msg="should be equal 2.3333")
 
     def test_divide_by_zero(self):
         """
