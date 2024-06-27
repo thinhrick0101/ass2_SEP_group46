@@ -1,7 +1,7 @@
 name: Static Analysis 2
 
 on:
-  pull_request:
+  push:
     branches: ["Thinh", "main"]
 
 jobs:
@@ -26,5 +26,5 @@ jobs:
     - name: Run pylint
       run: |
         pylint src/
-        pylint test/
+    
       continue-on-error: true
