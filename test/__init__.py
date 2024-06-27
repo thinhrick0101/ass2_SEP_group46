@@ -1,1 +1,1 @@
-# pylint: disable=C0305 
+# no error
