@@ -4,6 +4,9 @@ This is a comment
 import unittest
 from calculator import divide
 class TestDivision(unittest.TestCase):
+    """
+    This is a comment
+    """
     def test_divide_normal(self):
         """
         This is a comment
