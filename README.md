@@ -22,12 +22,12 @@ This is the link to one log of an execution of the workflow: https://github.com/
 pylint is a popular static code analysis tool for Python. It helps developers improve code quality by identifying programming errors, enforcing a coding standard, and offering simple refactoring suggestions.
 
 This is the link of static_ analysis_2: 
-https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670428376/job/26679116665
+https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9702599501/job/26778815797
 
 ## Workflow 4: Release (`release.yml`)
 
 This is the link of release.yml:
-https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670585144/job/26679553754
+https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9702599501
 
 ## Statement of individual contributions
 
@@ -35,7 +35,7 @@ https://github.com/thinhrick0101/ass2_SEP_group46/actions/runs/9670585144/job/26
 
 | Member | Created workflows | Reviewed workflows | Merged pull requests' number |
 | --- | --- | --- | --- |
-| Nguyen Duc Thinh | static_analysis_2.yml | testing.yml, static_release_2.yml, release.yml | 3 |
+| Nguyen Duc Thinh | static_analysis_2.yml | testing.yml, static_release_2.yml, release.yml | 16 |
 | Phan Hoang Minh | testing.yml | static_release_1.yml, static_release_2.yml, release.yml | 4 |
 | Hieu Nguyen Viet | static_analysis_1.yml |static_analysis_2.yml | 5 |
 | Tuan An Hoang | release.yml | static_analysis_1.yml, static_analysis_2.yml, testing.yml | 6 |
