@@ -27,4 +27,4 @@ jobs:
       run : |
          pylint src/
          pylint test/
-         ignore error : true
+      continue-on-error: true
