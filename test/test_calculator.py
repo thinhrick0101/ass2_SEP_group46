@@ -10,7 +10,7 @@ class TestDivision(unittest.TestCase):
         """
         self.assertAlmostEqual(divide(10, 2), 5.0, places=4, msg="10 / 2 should be 5")
         self.assertAlmostEqual(divide(9, 3), 3.0, places=4, msg="9 / 3 should be 3")
-        
+
     def test_divide_with_decimals(self):
         """
         This is a comment
